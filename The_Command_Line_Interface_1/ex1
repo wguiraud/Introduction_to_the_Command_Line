@@ -1,0 +1,15 @@
+Script started on 2021-08-04 11:35:28-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="111" LINES="28"]
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ echo "hello world"
+hello world
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ echo helllo[K[Ko world 
+hello world
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ echo -n ech[K[K[Kheoo[K[Kllo world
+hello world]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ echo hello wolrd[K[K[Krld -v[Kn
+hello world -n
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ echo hello [K[K[K[K[K[K"hello world" = [K-[K[K-n 
+hello world -n
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ echo "-n hello wolr[K[Krld [K"
+-n hello world
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ exit
+
+Script done on 2021-08-04 11:36:52-07:00 [COMMAND_EXIT_CODE="0"]
