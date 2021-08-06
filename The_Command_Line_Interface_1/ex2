@@ -1,0 +1,46 @@
+Script started on 2021-08-06 10:13:24-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="105" LINES="88"]
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ makdr[K[K[K[Kkdir parc[K[Kra[K[K[Kractirc[K[Kce
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ ls
+ex1  ex2  LICENSE.md  [0m[01;34mpractice[0m  README.md
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ cd practice/
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ touch example [K.txt
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example.txt
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ mv example.txt example1.txt
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example1.txt
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ mkdir tmp
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example1.txt  [0m[01;34mtmp[0m
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ mv r[Kexample1.txt ./tmp
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+[0m[01;34mtmp[0m
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ cd tmp
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[00m$ ls
+example1.txt
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[00m$ mv example1.txt /..[K[K[K./..
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[00m$ ls
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[00m$ cd ..
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example1.txt  [0m[01;34mtmp[0m
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ mv example1.txt example2.txt
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example2.txt  [0m[01;34mtmp[0m
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example2.txt  [0m[01;34mtmp[0m
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ cp example2.txt tmp
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example2.txt  [0m[01;34mtmp[0m
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ cd tmp/
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[00m$ ls
+example2.txt
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice/tmp[00m$ cd ..
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ ls
+example2.txt  [0m[01;34mtmp[0m
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1/practice[00m$ cd ..
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ ls
+ex1  ex2  LICENSE.md  [0m[01;34mpractice[0m  README.md
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ rm -r practice
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Command_Line_Interface_1[00m$ exit
+
+Script done on 2021-08-06 10:20:44-07:00 [COMMAND_EXIT_CODE="0"]

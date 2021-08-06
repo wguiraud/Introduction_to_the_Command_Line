@@ -1,0 +1,6 @@
+Script started on 2021-08-06 10:22:33-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="105" LINES="88"]
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/Files_Directories_Executables_2[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/Files_Directories_Executables_2[00m$ ls -a
+[0m[01;34m.[0m  [01;34m..[0m  ex1
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/Files_Directories_Executables_2[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/Files_Directories_Executables_2[00m$ exit
+
+Script done on 2021-08-06 10:22:45-07:00 [COMMAND_EXIT_CODE="0"]

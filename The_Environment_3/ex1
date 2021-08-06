@@ -1,0 +1,9 @@
+Script started on 2021-08-06 14:11:24-07:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="105" LINES="86"]
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[00m$ cd  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kd
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ PS1 -=[K[K[K = "/[K\u@\w$ "[1P[1P[C[1P[1@=[C[C[C[C[C[C[C[C[C
+launchschool@~$ echo "hello wlo[K[Kord[Kld"
+hello world
+launchschool@~$ eic[K[Kxit
+exit
+
+Script done on 2021-08-06 14:13:17-07:00 [COMMAND_EXIT_CODE="0"]

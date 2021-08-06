@@ -1,0 +1,43 @@
+Script started on 2021-08-06 14:28:00-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="105" LINES="88"]
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[00m$ OE L[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CL DPATGH[K[KH= [K$PATH
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[00m$ EC H[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kec ho$[K $OLPATH[K[K[K[KDP
+$OLDPATH  $OLDPWD   
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[00m$ echo $OLDP
+$OLDPATH  $OLDPWD   
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[00m$ echo $OLDPPA[K[KATH 
+/home/launchschool/.rvm/gems/ruby-2.7.0/bin:/home/launchschool/.rvm/gems/ruby-2.7.0@global/bin:/home/launchschool/.rvm/rubies/ruby-2.7.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/launchschool/.rvm/bin:/home/launchschool/.rvm/bin
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[00m$ CD  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcd  /usr/local
+]0;launchschool@pop-os: /usr/local[01;32mlaunchschool@pop-os[00m:[01;34m/usr/local[00m$ ls
+[0m[01;34mbin[0m  [01;34metc[0m  [01;34mgames[0m  [01;34minclude[0m  [01;34mlib[0m  [01;36mman[0m  [01;34msbin[0m  [01;34mshare[0m  [01;34msrc[0m
+]0;launchschool@pop-os: /usr/local[01;32mlaunchschool@pop-os[00m:[01;34m/usr/local[00m$ PATH= [K"" ls
+bash: ls: No such file or directory
+]0;launchschool@pop-os: /usr/local[01;32mlaunchschool@pop-os[00m:[01;34m/usr/local[00m$ ls
+[0m[01;34mbin[0m  [01;34metc[0m  [01;34mgames[0m  [01;34minclude[0m  [01;34mlib[0m  [01;36mman[0m  [01;34msbin[0m  [01;34mshare[0m  [01;34msrc[0m
+]0;launchschool@pop-os: /usr/local[01;32mlaunchschool@pop-os[00m:[01;34m/usr/local[00m$ eix[K[Kxt[Kix[Kt
+exit
+
+Script done on 2021-08-06 14:30:55-07:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2021-08-06 14:32:24-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="105" LINES="88"]
+]0;launchschool@pop-os: ~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[01;32mlaunchschool@pop-os[00m:[01;34m~/Documents/LS/Resources/Books/Introduction_to_the_Command_Line/The_Environment_3[00m$ cd  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kd
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ echo '#!/bin/bash' > test.sh
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ echo 'ex[Kcho "Hello world"'[K[K[K[K[K[K[K[K[Ko world"' >> test.sh
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ cho[Kmod +x ts=[Kes[K[K[Kest.sh 
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ ./test.sh 
+Hello world
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ test [K.sh
+test.sh: command not found
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ Pa[KATH= [K$PATGH[K[KG[KH:$HOME
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ echo $PATH
+/home/launchschool/.rvm/gems/ruby-2.7.0/bin:/home/launchschool/.rvm/gems/ruby-2.7.0@global/bin:/home/launchschool/.rvm/rubies/ruby-2.7.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/launchschool/.rvm/bin:/home/launchschool/.rvm/bin:/home/launchschool
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ test.sh
+Hello world
+]0;launchschool@pop-os: ~[01;32mlaunchschool@pop-os[00m:[01;34m~[00m$ cd /
+]0;launchschool@pop-os: /[01;32mlaunchschool@pop-os[00m:[01;34m/[00m$ test.sh 
+Hello world
+]0;launchschool@pop-os: /[01;32mlaunchschool@pop-os[00m:[01;34m/[00m$ exit
+exit
+
+Script done on 2021-08-06 14:35:38-07:00 [COMMAND_EXIT_CODE="0"]
